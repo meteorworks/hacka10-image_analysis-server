@@ -1,0 +1,6 @@
+[{
+  "script":"/root/node-server/hacka10-server/start.sh",
+  "name":"Hacka10-server",
+  "exec_interpreter":"bash",
+  "exec_mode":"fork_mode"
+}]
